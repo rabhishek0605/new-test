@@ -2,3 +2,4 @@
 #!/bin/bash
 echo "this is my test 2nd code"
 #this is in abhi branch
+#thi is git config --global user.name "abhi.r"
